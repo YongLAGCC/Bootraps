@@ -1,0 +1,388 @@
+	nav {
+	width: 100%;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.navContainer {
+	width: 100%;
+	max-width: 1000px;
+	display: block;
+	margin: 0 auto;
+}
+.brandLogo {
+	float: left;
+<<<<<<< HEAD
+	color: #bdbdbd;
+	display: block;
+	margin-top: 5px;
+	font-size: 1rem;
+=======
+	font-size: 20px;
+	color: #fff;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+	text-transform: uppercase;
+}
+.navLinks {
+	float: right;
+<<<<<<< HEAD
+	text-transform: uppercase;
+	color: #bdbdbd;
+	font-size: 1rem;
+}
+.navLinks li  {
+	display: inline;
+	margin: 0 10px;
+	color: #bdbdbd;
+}
+.navLinks li a{
+	color: #bdbdbd;
+}
+
+=======
+	font-size: 15px;
+	text-transform: uppercase;
+}
+.navLinks li  {
+	display: inline;
+	color:#fff;
+	margin: 0 10px;
+}
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+.topPage {
+	height: 100vh;
+	width: 100%;
+	background-image: url(https://blackrockdigital.github.io/startbootstrap-creative/img/header.jpg);
+	background-size: cover;
+	padding-top: 15%;
+}
+.topContainer  {
+	display: block;
+<<<<<<< HEAD
+	width: 900px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+
+}
+.topPage h1{
+	text-transform: uppercase;
+	font-size: 3rem;
+	font-weight: 800;
+}
+.topPage .divider {
+	height: 3px;
+	width: 60px;
+	margin: 30px auto;
+	background-color: #f05f40;
+}
+.TopGoal {
+	color: #bdbdbd;
+	width: 780px;
+	text-align: center;
+	font-weight: 700;
+	margin-left: 9%;
+	font-family: sans-serif;
+	display: block;
+	size: 11px;
+}
+=======
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+.topPage .divider {
+	height: 3px;
+	width: 80px;
+	margin: 20px auto;
+	background-color: #f05f40;
+}
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+
+.topPage button {
+	padding: 18px 26px;
+	background-color: #f05f40;
+	color: #fff;
+	border-radius: 30px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 900;
+	transition: 0.4s;
+}
+.topPage button:hover {
+	background-color: #eb3812;
+	cursor:pointer;
+}
+.SecondPage {
+	width: 100%;
+	max-width: 100%;
+	background-size: cover;
+	background-color: #f05f40;
+}
+.secondContiner {
+	display: block;
+	text-align: center;
+	height: 385px;
+}
+.Adtopic{
+	color: white;
+	padding:50px 50px 20px 50px;
+	font-family: sans-serif -apple;
+}
+.adcontent {
+	font-size: 20px;
+	font-family: serif;
+	color: #fff;
+	width: 900px;
+	text-align: center;
+	display: block;
+<<<<<<< HEAD
+	margin: 50px auto ;
+	padding: 0 10%;
+=======
+	margin: 50px 50px 50px 50px;
+	padding-left: 300px;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+}
+.mid-divider {
+	height: 3px;
+	width: 80px;
+<<<<<<< HEAD
+	margin: 15px auto;
+=======
+	margin: 20px auto;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+	background-color: #fff;
+}
+.SecondPage button {
+	padding: 18px 26px;
+	background-color: #fff;
+	color:#000;
+	border-radius: 30px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 900;
+	transition: 0.4s;
+}
+.SecondPage button:hover {
+	background-color: #dbdbdb;
+	cursor:pointer;
+}
+
+.thirdPage {
+	width: 100%;
+<<<<<<< HEAD
+	max-width: 100%;
+=======
+	max-width: 800px;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+	background-color: #ffffff;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+<<<<<<< HEAD
+	height: 460px;
+}
+.thridPage.p {
+	color: #bdbdbd;
+=======
+	height: 500px;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+}
+.adLogo {
+	text-align: center;
+	margin: 100px auto 20px;
+	font-size: 30px;
+<<<<<<< HEAD
+	font-family: sans-serif;
+=======
+	font-family: nana sans-serif;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+	width: 60%;
+	max-width: 900px;
+   display: block;
+}
+.third-divider {
+	height: 3px;
+	width: 50px;
+	margin: 10px auto;
+	background-color: #f05f40;
+	display: block;
+	text-align: center;
+}
+<<<<<<< HEAD
+
+.thirdPage .row {
+	padding-top: 9% ;
+}
+.row .i{
+	text-align: center;
+	max-width: 1000px;
+	width: 100%;
+	padding: 50px 50px;
+	display: block;
+}
+footer {
+	width: 100%;
+	min-width: 1500px;
+}
+.footContainer {
+	width: 100%;
+	display: block;
+	padding: 0 auto;
+	display: block;
+
+}
+.footContainer .col-lg-4 {
+	min-height: 260px;
+	width: 100%;
+=======
+.thirdContainer {
+	width: 90%;
+	max-width: 1200px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.thirdPage .row {
+	padding-top: 10%;
+}
+.row .i{
+	text-align: center;
+	max-width: 800;
+	width: 90%;
+	padding: 50px 50px;
+	display: block;
+}
+.footer {
+		width: 100%;
+		min-width: 100%;
+		background-size: cover;
+		display: block;
+
+}
+.footer .container {
+	display: block;
+	min-height: 600px;
+}
+.footContainer .col-lg-4 {
+	background-size: auto;
+	min-height: 260px;
+}
+
+.fifthPage{
+	width:100%;
+	max-width: 100%;
+    margin: 0 auto;
+	height: 500px;
+	display: block;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+}
+.fifthContainer {
+	background-color: #212529;
+	margin: 0 auto;
+	height: 500px;
+	color: #fff;
+	text-align: center;
+	padding: 15% 15%;
+}
+.h1 {
+	font-size: 28%;
+	margin: 50px auto;
+	font-family: sans-serif;
+}
+.fifthPage button{
+	padding: 18px 26px;
+	background-color: #f05f40;
+	color: #fff;
+	border-radius: 30px;
+	border: none;
+	margin-top: 20px;
+	text-transform: uppercase;
+	font-weight: 900;
+	transition: 0.4s;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+}
+.fifthPage button .hover {
+	background-color: #eb3812;
+	cursor:pointer;
+	display: block;
+}
+.lastPage {
+<<<<<<< HEAD
+	width: 60%;
+	display: block;
+	margin: 120px auto;
+	text-align: center;
+	height: 300px;
+	top: 0;
+}
+.lastContiner {
+	width: 100%;
+	max-width: 400px;
+	background-color: #fff;
+	text-align: center;
+	display: block;
+}
+.lastAd {
+	width: 500px;
+	font-size: 2em;
+	margin: 0 auto;
+	padding: 20px 50px 20px;
+}
+.lastDivider {
+padding: 0 auto;
+width: 50px;
+height: 3px;
+display: block;
+margin:1.5rem auto;
+background-color: #f05f40;
+}
+.h5{
+padding: 0 auto;
+margin: 10 auto;
+display: block;
+font-size: 1em;
+width: 500px;
+}
+.row {
+	padding: 10%;
+		font-family: sans-serif;
+		margin: 10px auto;
+}
+.email {
+	color: #f05f40;
+   margin: 10px auto;
+
+}
+.phone{
+	color: #000;
+	margin: 10px auto;
+
+=======
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	padding 0 auto;
+}
+.lastPage .container {
+	width: 100%;
+	max-width: 900px;
+	background-color: #fff;
+	text-align: center;
+	margin: 20px auto;
+}
+.lastPage .divider{
+	width 30px;
+	height 3px;
+	color: #eb3812;
+	margin: 20px auto;
+	display: block;
+>>>>>>> 589087844cd6f6445d540308a0a3522d6573a98e
+
+}
