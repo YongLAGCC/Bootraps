@@ -31,3 +31,14 @@ function change() {
    
 }
 
+
+console.log("Fourth: following your typing. ")
+
+var writer = document.getElementById("wirter");
+var String = document.getElementById("String");
+
+writer.addEventListener("input", react);
+
+function react() {
+    console,log(react());
+}
